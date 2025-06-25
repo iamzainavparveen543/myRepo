@@ -1,3 +1,4 @@
+// testing message
 class Animal {
     void eat() {
         System.out.println("the animal eating");
